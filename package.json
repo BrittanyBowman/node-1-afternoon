@@ -19,6 +19,7 @@
   "homepage": "https://github.com/BrittanyBowman/node-1-afternoon#readme",
   "dependencies": {
     "body-parser": "^1.18.3",
-    "express": "^4.16.4"
+    "express": "^4.16.4",
+    "script": "^0.1.4"
   }
 }
